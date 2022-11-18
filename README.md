@@ -1,2 +1,2 @@
 # my-coding
-My super power
+print("Coding is my new superpower")
